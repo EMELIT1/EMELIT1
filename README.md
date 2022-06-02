@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EMELIT1
 - 👀 I’m interested in new projects.
-- 🌱 I’m currently learning AWS and Ansible.
-- 💞️ I’m looking to collaborate on any Ansible project
+- 🌱 I’m currently learning AWS and Terraform.
+- 💞️ I’m looking to collaborate on any Terraform project
 - 📫 How to reach me emelsuslu@gmail.com
 
 <!---
